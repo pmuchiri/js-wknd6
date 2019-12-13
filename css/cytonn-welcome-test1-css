@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cytonn US - Web Page</title>
+</head>
+
+<body>
+Welcome to Cytonn US Office.
+</body>
+
+</html>
+
+<html>
+<body>
+
+<!-- Display Introduction -->
+<p>Investments and Real Estate Solutions for the Diaspora. Cytonn exists to serve the interest of our clients. We do this by creating innovative and differentiated financial solutions that speak very directly to the needs of our clients.</p>
+<!-- Comments are not displayed in the browser -->
+
+</body>
+</html>
+
+<html>
+<body>
+
+<p>The Diaspora unit <abbr title="Cytonn Diaspora, LLC">CDL</abbr> was founded in 2015.</p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<address>
+Contact Us: <a href="mailto:pmuchiri@cytonn.com">Cytonn US Representative</a>.<br> 
+Visit us at:<br>
+1775 I Street, NW, Suite 1150<br>
+Washington DC 20006<br>
+USA
+</address>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<h1>About Cytonn</h1>
+<p>Here is a quote from Cytonn's website:</p>
+
+<blockquote cite="https://cytonn.com/why-cytonn">
+Our team is made of individuals who have schooled and worked both locally and internationally. Our networks in the region are deep and committed to the region. Our global markets experience enable us adapt world-class execution to the enormous local opportunities.
+
+Innovative Culture
+Innovation is highly valued in our firm and we go to great lengths to expose our people to cutting edge knowledge to catalyze innovation.
+
+Technology
+To manage the costs we charge to our clients to serve them, we endeavor to rely on technology to be efficient and also to improve the client experience. Our ideal is to be a technology company that happens to delivery innovative financial solutions.
+
+Focused Client Coverage
+Our client centric approach requires to be continually be connected to and be of service to our clients in order to be responsive to their needs.
+
+</blockquote>
+
+</body>
+</html>
+
+
+<html>
+<body>
+
+<h2>Subscribe to our Weekly Updates</h2>
+<button type="button" onclick="alert('Subscribe to our Weekly Updates!')">Click Here!</button>
+ 
+</body>
+</html>
+
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+<h1>Cytonn African Financial Services Fund</h1>
+<p>Minimum investment: Kes 1,000,000
+Minimum investment horizon: 1 year
+Management fees:
+Target return (p.a.): 25.0%!</p>
+
+</body>
+</html>
+
+<html>
+<body>
+
+<img src="smiley.gif" alt="Smiley face" width="42" height="42">
+
+</body>
+</html>
